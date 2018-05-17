@@ -6,6 +6,8 @@ layout: en
 
 <div id="toc"></div>
 
+**Note:** This feature is not available in the Free tier.
+
 If you are having trouble resolving complex build errors, or you suspect there are
 significant differences between your local development environment and
 the Travis CI build environment, you can restart builds in debug mode
